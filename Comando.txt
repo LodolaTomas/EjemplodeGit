@@ -1,5 +1,6 @@
 git clone
-git status
+git status (me permite ver el estado actual de  mi repositorio local)
 git add . 
 git commit -m ""
 git push
+
