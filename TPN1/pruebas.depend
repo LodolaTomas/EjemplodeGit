@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1554271062 source:c:\users\lodol\documents\github\pruebas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554272153 source:c:\users\lodol\documents\github\pruebas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554271676 c:\users\lodol\documents\github\pruebas\funciones.h
+
+1554275133 source:c:\users\lodol\documents\github\tpn1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554345644 c:\users\lodol\documents\github\tpn1\funciones.h
+
+1554344896 source:c:\users\lodol\documents\github\tpn1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
